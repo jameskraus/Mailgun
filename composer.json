@@ -17,6 +17,12 @@
             "homepage": "http://bogardo.com/"
         }
     ],
+    "repositories": [
+        {   
+            "type": "vcs",
+            "url": "https://github.com/jameskraus/mailgun-php.git"
+        }
+    ],
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "~5.1",
